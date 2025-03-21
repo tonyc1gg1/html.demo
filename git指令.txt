@@ -86,6 +86,8 @@ git checkout master
 -git clone https://github.com/jerrytw0923/html-demo
                              /輸入帳號名稱/
 
+22.加入暫存區的恢復 A -> U
+-git restore --staged <filename>
 
 ### 常用指令
 
